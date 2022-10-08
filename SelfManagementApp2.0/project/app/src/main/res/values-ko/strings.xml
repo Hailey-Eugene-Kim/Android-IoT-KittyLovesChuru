@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">냥이는 츄르를 좋아해</string>
+    <string name="todo">오늘 할 일</string>
+    <string name="news">뉴스 읽기</string>
+    <string name="workout">캣타워 피트니스</string>
+    <string name="churu">츄르 먹기</string>
+    <string name="hello">집사 안녕 :)</string>
+    <string name="play">오늘 나랑 놀자!</string>
+    <string name="add">추가</string>
+    <string name="edit">수정</string>
+    <string name="delete">삭제</string>
+    <string name="title">할 일</string>
+    <string name="body">자세히</string>
+    <string name="confirm">확인</string>
+    <string name="done">할 일 완료 : 츄르 얻기</string>
+    <string name="churucnt">오늘의 츄르 :</string>
+    <string name="menu_insert">할 일 추가</string>
+    <string name="menu_delete">할 일 삭제</string>
+    <string name="fitness">캣 타워 꼭대기까지 거리</string>
+</resources>

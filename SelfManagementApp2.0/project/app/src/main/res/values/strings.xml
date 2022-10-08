@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Kitty loves CHURU</string>
+    <string name="todo">To Do List</string>
+    <string name="news">News</string>
+    <string name="workout">WorkOut</string>
+    <string name="churu">Eating CHURU</string>
+    <string name="hello">Hello my Staff :)</string>
+    <string name="play">Let`s Play!</string>
+    <string name="add">add</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="title">Task</string>
+    <string name="body">Detail</string>
+    <string name="confirm">confirm</string>
+    <string name="done">Done : Get Churu</string>
+    <string name="churucnt">CHURU today :</string>
+    <string name="menu_insert">Add Task</string>
+    <string name="menu_delete">Delete Task</string>
+    <string name="fitness">Distance to Top of Cat Tower</string>
+</resources>
